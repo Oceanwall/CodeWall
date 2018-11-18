@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle codewall",
+        "command": "codewall:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "codewall",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "codewall:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
