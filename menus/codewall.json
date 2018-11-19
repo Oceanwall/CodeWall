@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle codewall",
-        "command": "codewall:toggle"
+        "label": "Turn on codewall",
+        "command": "codewall:turn-on"
       }
     ]
   },
@@ -15,8 +15,20 @@
           "label": "codewall",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "codewall:toggle"
+              "label": "Turn On",
+              "command": "codewall:turn-on"
+            },
+            {
+              "label": "Turn Off",
+              "command": "codewall:turn-off"
+            },
+            {
+              "label": "Select ruler error color",
+              "command": "codewall:change-ruler-color"
+            },
+            {
+              "label": "Select highlight error color",
+              "command": "codewall:change-highlight-color"
             }
           ]
         }
