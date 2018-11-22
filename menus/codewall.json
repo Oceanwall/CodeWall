@@ -23,12 +23,8 @@
               "command": "codewall:turn-off"
             },
             {
-              "label": "Select ruler error color",
-              "command": "codewall:change-ruler-color"
-            },
-            {
-              "label": "Select highlight error color",
-              "command": "codewall:change-highlight-color"
+              "label": "Change Error Colors",
+              "command": "codewall:change-colors"
             }
           ]
         }
