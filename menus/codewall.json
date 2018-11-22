@@ -1,12 +1,4 @@
 {
-  "context-menu": {
-    "atom-text-editor": [
-      {
-        "label": "Turn on codewall",
-        "command": "codewall:turn-on"
-      }
-    ]
-  },
   "menu": [
     {
       "label": "Packages",
@@ -23,8 +15,8 @@
               "command": "codewall:turn-off"
             },
             {
-              "label": "Change Error Colors",
-              "command": "codewall:change-colors"
+              "label": "Change Ruler Options",
+              "command": "codewall:change-options"
             }
           ]
         }
