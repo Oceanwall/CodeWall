@@ -5,6 +5,9 @@
   "description": "A short description of your package",
   "keywords": [
   ],
+  "activationCommands": {
+    "atom-workspace": "codewall:turn-on"
+  },
   "repository": "https://github.com/atom/codewall",
   "license": "MIT",
   "engines": {
