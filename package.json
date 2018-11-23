@@ -1,9 +1,19 @@
 {
   "name": "codewall",
   "main": "./lib/codewall",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.1.0",
+  "description": "Checks if lines in the text editor exceed the ruler. Automatically updates, highlighting violating lines, and also offers ruler customization options.",
   "keywords": [
+    "80",
+    "character",
+    "limit",
+    "exceed",
+    "ruler",
+    "length",
+    "check",
+    "colors",
+    "highlight",
+    "error"
   ],
   "repository": "https://github.com/atom/codewall",
   "license": "MIT",
