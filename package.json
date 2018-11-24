@@ -1,7 +1,7 @@
 {
   "name": "codewall",
   "main": "./lib/codewall",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Checks if lines in the text editor exceed the ruler. Automatically updates, highlighting violating lines, and also offers ruler customization options.",
   "keywords": [
     "80",
