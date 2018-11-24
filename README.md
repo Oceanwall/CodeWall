@@ -4,7 +4,7 @@ Atom extension that checks if your code exceeds the ruler, and highlights violat
 
 <a href="https://atom.io/packages/codewall">Install it now!</a>
 
-<sup>**Version 0.1.0**<br>
+<sup>**Version 0.1.1**<br>
 Last Updated: 11/23/18<br>
 </sup>
 
