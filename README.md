@@ -1,31 +1,35 @@
 # CodeWall
 
-Atom extension that checks if your code exceeds the ruler, and highlights violating lines. Offers automatic updates and ruler customization options.
+Atom extension that checks if your code exceeds the ruler, and highlights violating lines.<br>Offers automatic updates and ruler customization options.
 
-**Version 0.1.0&nbsp;**
-Last Updated: 11/23/18&nbsp;
-Do not expect maintenance.
+<a href="https://atom.io/packages/codewall">Install it now!</a>
+
+<sup>**Version 0.0.0**<br>
+Last Updated: 11/23/18<br>
+</sup>
 
 ## Features
 
 Changes the ruler color if your code goes past the ruler, and highlights the lines that violate the ruler's length.
 
-<!-- Insert image here -->
+![Ruler example](https://raw.githubusercontent.com/Oceanwall/CodeWall/master/images/example1.png)
 
 Automatically updates every time you make a change.
 
-<!-- Insert image here -->
+![Ruler example 2](https://github.com/Oceanwall/CodeWall/blob/master/images/example2.gif?raw=true)
 
 Allows for custom ruler (default or on-error) colors.
 
-<!-- Insert image here -->
+![Ruler example 3](https://github.com/Oceanwall/CodeWall/blob/master/images/example3.gif?raw=true)
 
 ## Known Bugs
 
 While active, this extension may hide git change tracking information in the sidelines.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
-
 ## TODO
 
-Add testing in codewall-spec.js?
+Add test cases in codewall-spec.js?
+
+## Additional Notes
+
+Looking for a similar plugin for VS Code? Check out <a href="https://github.com/abhinavk99/codewall">abhinavk99's codewall!</a>
