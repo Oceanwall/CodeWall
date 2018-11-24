@@ -4,7 +4,7 @@ Atom extension that checks if your code exceeds the ruler, and highlights violat
 
 <a href="https://atom.io/packages/codewall">Install it now!</a>
 
-<sup>**Version 0.0.0**<br>
+<sup>**Version 0.1.0**<br>
 Last Updated: 11/23/18<br>
 </sup>
 
@@ -16,11 +16,11 @@ Changes the ruler color if your code goes past the ruler, and highlights the lin
 
 Automatically updates every time you make a change.
 
-![Ruler example 2](https://github.com/Oceanwall/CodeWall/blob/master/images/example2.gif?raw=true)
+![Ruler example 2](https://raw.githubusercontent.com/Oceanwall/CodeWall/master/images/example2.gif)
 
 Allows for custom ruler (default or on-error) colors.
 
-![Ruler example 3](https://github.com/Oceanwall/CodeWall/blob/master/images/example3.gif?raw=true)
+![Ruler example 3](https://raw.githubusercontent.com/Oceanwall/CodeWall/master/images/example3.gif)
 
 ## Known Bugs
 
