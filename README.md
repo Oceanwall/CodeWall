@@ -4,8 +4,8 @@ Atom extension that checks if your code exceeds the ruler, and highlights violat
 
 <a href="https://atom.io/packages/codewall">Install it now!</a>
 
-<sup>**Version 0.1.1**<br>
-Last Updated: 11/23/18<br>
+<sup>**Version 0.1.2**<br>
+Last Updated: 12/05/18<br>
 </sup>
 
 ## Features
@@ -26,11 +26,13 @@ Allows for custom ruler (default or on-error) colors.
 
 While active, this extension may hide git change tracking information in the sidelines.
 
-Potential bug with Unix computers' color selectors and the Atom API Color object.
-
 ## TODO
 
 Add test cases in codewall-spec.js?
+
+## Latest Change (0.1.2)
+
+Fixed bug where Atom API Color wrappers were not being properly used.
 
 ## Additional Notes
 
