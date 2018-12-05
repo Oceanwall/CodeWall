@@ -26,6 +26,8 @@ Allows for custom ruler (default or on-error) colors.
 
 While active, this extension may hide git change tracking information in the sidelines.
 
+Potential bug with Unix computers' color selectors and the Atom API Color object.
+
 ## TODO
 
 Add test cases in codewall-spec.js?
